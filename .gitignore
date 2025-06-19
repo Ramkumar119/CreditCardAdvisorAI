@@ -1,0 +1,41 @@
+# Node (frontend)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Python (backend)
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Virtual envs
+.env
+.env.*
+
+# Others
+*.swp
