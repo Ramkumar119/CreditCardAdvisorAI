@@ -55,8 +55,9 @@ Stored as `credit_cards.json` / SQL with fields:
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repo
 ```bash
+### 1. Clone the Repo
+
 git clone https://github.com/your-username/credit-card-advisor.git
 cd credit-card-advisor
 
